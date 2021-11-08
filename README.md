@@ -1,2 +1,1 @@
-# Cross-Platform-Calculator-Application
-This is a cross-platform desktop program that works on both Windows and macOS. The program was created with Qt Creator, a cross-platform development environment. The application was written in C++, with Qt as the framework and QMake as the build tool.
+Users don’t need to install any other 3rd party libraries and software to run this application. All you need is to install QT creator and you can simply run this application using QT creator
